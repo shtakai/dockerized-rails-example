@@ -1,5 +1,7 @@
 # Dockerized rails application development
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/dockerized-rails-example.svg)](https://www.guardrails.io)
+
 ## Usage
 
 ```
